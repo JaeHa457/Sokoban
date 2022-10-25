@@ -1,3 +1,3 @@
 # Sokoban
 Game Of Sokoban
-Implemented through Python
+Implemented with Python
